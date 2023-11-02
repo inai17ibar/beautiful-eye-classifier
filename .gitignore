@@ -8,6 +8,7 @@ myvenv/
 
 .DS_Store
 downloaded_images/
+face_images/
 
 # C extensions
 *.so
